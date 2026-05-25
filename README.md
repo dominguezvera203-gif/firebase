@@ -67,8 +67,5 @@ The application supports the following CRUD functionalities:
 ---
 
 ## How to Run the Application
-
-1. Install dependencies
-
-```bash
-npm install
+exp://192.168.172.250:8081
+http://localhost:8081
